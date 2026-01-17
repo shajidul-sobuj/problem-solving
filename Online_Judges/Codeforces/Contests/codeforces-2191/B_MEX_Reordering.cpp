@@ -1,3 +1,11 @@
+// Problem: B
+// Contest: Codeforces Round 2191
+// Link: https://codeforces.com/contest/2191/problem/B
+// Author: Shajidul Islam Sobuj
+// Codeforces: https://codeforces.com/profile/shajidul-sobuj
+// GitHub: https://github.com/shajidul-sobuj
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -25,4 +33,5 @@ int main() {
         }
     }
     return 0;
+
 }
