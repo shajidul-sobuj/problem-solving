@@ -1,3 +1,11 @@
+// Problem: D1
+// Contest: Codeforces Round 2191
+// Link: https://codeforces.com/contest/2191/problem/D1
+// Author: Shajidul Islam Sobuj
+// Codeforces: https://codeforces.com/profile/shajidul-sobuj
+// GitHub: https://github.com/shajidul-sobuj
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -26,4 +34,5 @@ int main() {
         cout << ans << endl;
     }
     return 0;
+
 }
