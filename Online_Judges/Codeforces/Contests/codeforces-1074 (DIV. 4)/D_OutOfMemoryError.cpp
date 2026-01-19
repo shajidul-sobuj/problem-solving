@@ -5,6 +5,11 @@
 // |                      |
 // |----------------------|
 
+// Contest: Codeforces Round 1074
+// Link: https://codeforces.com/contest/1074/problem/D
+// Author: Shajidul Islam Sobuj
+// Codeforces: https://codeforces.com/profile/shajidul-sobuj
+// GitHub: https://github.com/shajidul-sobuj
 
 
 
